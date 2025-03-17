@@ -1,2 +1,1 @@
-# Atividade-carta
-Atividade carta
+Atividade "carta", referente à aula 2 da matéria Responsive Web Development.
